@@ -1,6 +1,13 @@
 import os
 from groq import Groq
 from portkey_ai import Portkey
+from dotenv import load_dotenv
+
+
+# Load environment variables from .env
+load_dotenv()
+
+
 
 api_key = os.environ.get("GROQ_API_KEY")
 client = Groq(api_key=api_key)

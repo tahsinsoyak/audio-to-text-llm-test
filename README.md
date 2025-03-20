@@ -8,6 +8,7 @@ This project is designed to leverage local language models and artificial intell
 - **Text Summarization**: Generates professional summaries in Turkish, including short summaries, detailed summaries, and action items.
 - **Project Proposal Generation**: Creates structured project proposals in Turkish using extracted text and AI models.
 - **Customizable Prompts**: Allows users to define specific prompts for generating tailored outputs.
+- **LLM Monitoring Tool**: Test and monitor the performance of language models using Portkey AI's monitoring tool.
 
 ## Requirements
 
